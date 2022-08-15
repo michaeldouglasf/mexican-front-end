@@ -13,9 +13,10 @@ O projeto é um app onde podemos cadastrar,visualizar receitas de comidas,o intu
 - [axios](https://github.com/axios/axios)
 - [react-router-dom](https://v5.reactrouter.com/)
 - [material ui](https://mui.com/)
-
+- [API utilizada no projeto](https://documenter.getpostman.com/view/9133542/U16dQniU)
 ## 🔗 Link Surge: 
 Acesse nosso site [clicando aqui!](https://mexican.surge.sh/login)
+<br>
 Login: mike@gmail.com
 <br>
 Password: 123456
